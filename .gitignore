@@ -1,0 +1,119 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+pipenv/
+poetry.lock
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Jupyter runtime
+share/jupyter/runtime/
+profile_default/
+# JupyterLab
+.lab/
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask/Django instance
+instance/
+*.sqlite3
+
+# Scrapy
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# MyPy / type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+.pylint.d/
+
+# Pyre
+.pyre/
+
+# Pyright
+pyrightconfig.json
+
+# Pyre type checking
+.pyre/
+
+# C extensions
+*.so
+*.pyd
+*.dll
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+**/.cache/
+
+# Poetry
+.poetry/
+
+# Hatch
+.hatch/
+
+# Ruff
+.ruff_cache/
+
+# Mac virtualenv symlinks
+lib/
+Include/
+Scripts/
