@@ -22,32 +22,32 @@ The objective of this course is to develop advanced proficiency in Python progra
 
 ### 1. Advanced Python Concepts and Best Practices (7 hours)
 
-1.1 Review of Python essentials and coding conventions
-1.2 Advanced data structures: Collections, iterators, generators, and decorators
-1.3 Functions and lambda expressions
-1.4 Object-Oriented Programming for data science applications
-1.5 Exception handling, debugging, and logging
+1.1 Review of Python essentials and coding conventions<br>
+1.2 Advanced data structures: Collections, iterators, generators, and decorators<br>
+1.3 Functions and lambda expressions<br>
+1.4 Object-Oriented Programming for data science applications<br>
+1.5 Exception handling, debugging, and logging<br>
 1.6 Working with modules and packages
 
 📁 **Resources:** [resources/chapter-01-python-concepts/](resources/chapter-01-python-concepts/)
 
 ### 2. Data Sources and APIs (7 hours)
 
-2.1 Reading and writing structured/unstructured data (CSV, JSON, Excel, text)
-2.2 Database access with relational database and non-relational database
-2.3 Accessing and processing data from APIs (REST, SOAP)
-2.4 Web scraping using requests and BeautifulSoup
+2.1 Reading and writing structured/unstructured data (CSV, JSON, Excel, text)<br>
+2.2 Database access with relational database and non-relational database<br>
+2.3 Accessing and processing data from APIs (REST, SOAP)<br>
+2.4 Web scraping using requests and BeautifulSoup<br>
 2.5 Handling large datasets with chunking and lazy evaluation
 
 📁 **Resources:** [resources/chapter-02-data-sources/](resources/chapter-02-data-sources/)
 
 ### 3. Advanced Data Wrangling and Transformation (9 hours)
 
-3.1 Advanced Pandas operations: Merging, joining, reshaping, pivoting
-3.2 Handling missing, categorical, and time-series data
-3.3 Feature transformation, scaling, and encoding
-3.4 Memory optimization and efficient data processing
-3.5 Building a reusable data-cleaning pipeline
+3.1 Advanced Pandas operations: Merging, joining, reshaping, pivoting<br>
+3.2 Handling missing, categorical, and time-series data<br>
+3.3 Feature transformation, scaling, and encoding<br>
+3.4 Memory optimization and efficient data processing<br>
+3.5 Building a reusable data-cleaning pipeline<br>
 3.6 Introduction to data pipeline components (Ingestion, transformation, storage)
 
 📁 **Resources:** [resources/chapter-03-data-wrangling/](resources/chapter-03-data-wrangling/)
@@ -64,23 +64,23 @@ The objective of this course is to develop advanced proficiency in Python progra
 
 ### 5. Data Visualization and Storytelling (7 hours)
 
- 5.1 Principles of effective visualization and dashboard design
- 5.2 Visualization with Matplotlib: Line, bar, histogram, scatter, subplots
- 5.3 Seaborn for statistical visualization: Box plot, pair plot, heat map
- 5.4 Interactive visualization using Plotly
- 5.5 Visualization driven insight generation
+ 5.1 Principles of effective visualization and dashboard design<br>
+ 5.2 Visualization with Matplotlib: Line, bar, histogram, scatter, subplots<br>
+ 5.3 Seaborn for statistical visualization: Box plot, pair plot, heat map<br>
+ 5.4 Interactive visualization using Plotly<br>
+ 5.5 Visualization driven insight generation<br>
  5.6 Case study: End-to-end visualization and reporting project
 
 📁 **Resources:** [resources/chapter-05-visualization/](resources/chapter-05-visualization/)
 
 ### 6. Data Engineering and Automation (8 hours)
 
- 6.1 Overview of data engineering in applied data science
- 6.2 Designing and implementing ETL pipelines
- 6.3 Automating workflows with schedulers (CRON, schedule)
- 6.4 Logging, monitoring, and error handling in pipelines
- 6.5 Data storage and retrieval strategies for pipelines
- 6.6 Automated report generation (Excel, HTML, PDF)
+ 6.1 Overview of data engineering in applied data science<br>
+ 6.2 Designing and implementing ETL pipelines<br>
+ 6.3 Automating workflows with schedulers (CRON, schedule)<br>
+ 6.4 Logging, monitoring, and error handling in pipelines<br>
+ 6.5 Data storage and retrieval strategies for pipelines<br>
+ 6.6 Automated report generation (Excel, HTML, PDF)<br>
  6.7 Case study: End-to-end automated analytics pipeline
 
 📁 **Resources:** [resources/chapter-06-data-engineering/](resources/chapter-06-data-engineering/)
