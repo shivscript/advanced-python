@@ -201,13 +201,15 @@ except Exception as e:
     print(f"Error: {e}")
 
 # With finally (always runs)
+f = None
 try:
     f = open("file.txt")
     data = f.read()
 except FileNotFoundError:
     print("File not found")
 finally:
-    f.close()  # cleanup
+    if f is not None:
+        f.close()  # cleanup
 
 # Better way with 'with'
 with open("file.txt") as f:
