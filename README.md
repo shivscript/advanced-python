@@ -54,10 +54,10 @@ The objective of this course is to develop advanced proficiency in Python progra
 
 ### 4. Applied Statistics and Exploratory Analysis (7 hours)
 
-4.1 Statistical measures: Correlation, covariance, skewness, kurtosis
-4.2 Probability review, sampling, and hypothesis testing
-4.3 Regression and trend analysis using stats models
-4.4 Exploratory data analysis (EDA) using descriptive and inferential methods
+4.1 Statistical measures: Correlation, covariance, skewness, kurtosis<br>
+4.2 Probability review, sampling, and hypothesis testing<br>
+4.3 Regression and trend analysis using stats models<br>
+4.4 Exploratory data analysis (EDA) using descriptive and inferential methods<br>
 4.5 Automation of EDA workflows using Python
 
 📁 **Resources:** [resources/chapter-04-statistics-eda/](resources/chapter-04-statistics-eda/)
