@@ -1,0 +1,19 @@
+<h2>Jobs</h2>
+<button (click)="scrapeJobs()">Fetch Jobs</button>
+
+<ul>
+  <li *ngFor="let job of jobs">
+    {{ job.title }} — {{ job.location }}
+  </li>
+</ul>
+
+<hr>
+
+<h2>Courses</h2>
+<button (click)="scrapeCourses()">Fetch Courses</button>
+
+<ul>
+  <li *ngFor="let course of courses">
+    {{ course.course_name }}
+  </li>
+</ul>
